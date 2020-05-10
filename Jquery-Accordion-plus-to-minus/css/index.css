@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.collapse{
+    background-color: aquamarine;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.collapse >h2{
+    background-color: gray;
+    padding: 10px;
+
+}
+
+.collapse >h2 >span{
+   cursor: pointer;
+
+}
+
+.collapse >div{
+    display: none;
+    padding: 10px;
+
+}
+
+
